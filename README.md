@@ -1,1 +1,1 @@
-A shell script that prints the maximum value a process ID can be.
+A C program that prints the PID of the parent process
